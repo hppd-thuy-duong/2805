@@ -169,8 +169,8 @@ body {
 /* Box 3D */
 
 .lightBulb {
-  margin-left: 700px;
-  margin-top: 200px;
+  left: 46%;
+  bottom: -100%;
   position: absolute;
   width: 150px;
   height: 75px;
